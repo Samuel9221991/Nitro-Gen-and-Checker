@@ -6,9 +6,9 @@ Gen and check discord nitro .gift codes, then, blacklist the worst codes.
 
 
 ## REQUIREMENTS
-> ```[+] Python3```
+> ```**[+]** Python3```
 > 
-> ```[+] requests library (pip3 install requests)```
+> ```**[+]** requests library (pip3 install requests)```
 
 
 
@@ -20,11 +20,11 @@ Gen and check discord nitro .gift codes, then, blacklist the worst codes.
 
 
 ## DONATE
-XMR: 8Aqu8BCgUqqJuy5vgpig7tEm64c5v3x4HhCdLCcgForUe721uJBGMiHZ7qWEUUdZuyCMuLXgrYG3De55gc6f1XwGFombe8z
-PayPal:https://paypal.me/miencraftsamdoname?country.x=MX&locale.x=es_XC
+> **XMR:** `8Aqu8BCgUqqJuy5vgpig7tEm64c5v3x4HhCdLCcgForUe721uJBGMiHZ7qWEUUdZuyCMuLXgrYG3De55gc6f1XwGFombe8z`
+> **PayPal:** `https://paypal.me/miencraftsamdoname?country.x=MX&locale.x=es_XC`
 
 
 
 
 
-FROM MEXICO FOR THE WORLD.
+###### FROM MEXICO FOR THE WORLD.
