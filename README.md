@@ -6,9 +6,11 @@ Gen and check discord nitro .gift codes, then, blacklist the worst codes.
 
 
 ## REQUIREMENTS
-> **[+]** python3
+> **[+]** python3 *(`apt install python3 -y` **|** `yum install python3 -y`)*
+>
+> **[+]** pip3 *(`apt install pip -y` **|** `yum install pip -y`)*
 > 
-> **[+]** requests library *(pip3 install requests)*
+> **[+]** requests library *(`pip3 install requests` **|** `pip install requests`)*
 
 
 
